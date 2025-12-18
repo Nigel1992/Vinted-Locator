@@ -214,9 +214,9 @@ if (!DESIRED_COUNTRY) {
 }
 ```
 
-Press Enter to execute the code.
+2. Press Enter to execute the code.
 
-Step 3: Check the Output
+## Step 3: Check the Output
 
 Any results, messages, or errors from your code will appear directly in the console.
 
