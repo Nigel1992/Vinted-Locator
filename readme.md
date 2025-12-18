@@ -1,3 +1,5 @@
+# COMING SOON AS AN EXTENTION FOR CHROME, USE GUIDE.MD FOR NOW
+
 # Vinted Country Filter Chrome Extension
 
 A **Chrome extension** that filters Vinted items by country in real-time.  
