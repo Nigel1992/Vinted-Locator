@@ -159,7 +159,9 @@ Contributions are welcome!
 
 ## 📄 License
 
-**MIT License**
+This project is licensed for **non-commercial use only**.
 
-You are free to **use, modify, and distribute** this project.
+Commercial use or monetization is **not permitted** without explicit
+written permission from the author.
+
 
