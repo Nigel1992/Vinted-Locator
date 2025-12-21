@@ -3,8 +3,8 @@
 This guide explains how to run JavaScript code directly in the Chrome Developer Console.
 
 ## Step 1: Open Chrome Developer Tools
-1. Open Google Chrome.
-2. Navigate to the webpage where you want to run the code.
+1. Open Google Chrome/Brave.
+2. Navigate to Vinted and change language to English.
 3. Open **Developer Tools**:
    - **Windows/Linux:** `Ctrl + Shift + I`
    - **Mac:** `Cmd + Option + I`
@@ -216,6 +216,7 @@ if (!DESIRED_COUNTRY) {
 ```
 
 2. Press Enter to execute the code.
+3. Enter country name [in English and hit Enter once again.
 
 ## Step 3: Check the Output
 
