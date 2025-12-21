@@ -1,3 +1,5 @@
+# UPDATE: You can now easily run the script using: https://greasyfork.org/en/scripts/559753-vinted-country-city-filter-client-side
+
 # Running JavaScript in Chrome Developer Console
 
 This guide explains how to run JavaScript code directly in the Chrome Developer Console.
