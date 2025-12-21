@@ -1,6 +1,6 @@
 > 🚧 **COMING SOON**  
 > This project will be released as a **Chrome Extension**.  
-> For now, please refer to **GUIDE.md** for usage instructions.
+> For now, please use the Userscript located at https://greasyfork.org/en/scripts/559753-vinted-country-city-filter-client-side for ease of use.
 >
 > ⚠️ **Use at your own risk.**  
 > This extension modifies the Vinted website locally and may conflict with Vinted’s Terms of Service.
